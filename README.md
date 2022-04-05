@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there ⚡
+I’m currently learning Web Development 🌱
+Student from UNMSM ✨
 
 <!--
 **JosueEstrada/JosueEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
